@@ -15,7 +15,7 @@
 Seu desafio é criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
 # Tecnologias utilizadas:
-- Javascript
+- Typescript
   - [playwright](https://github.com/microsoft/playwright)
 
 # Execução:
