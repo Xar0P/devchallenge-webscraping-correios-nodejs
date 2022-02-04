@@ -23,6 +23,6 @@ Seu desafio é criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_d
 1 - Faça o clone ou download do projeto\
 2 - Instale as dependências do projeto ```$ yarn || npm install ```\
 3 - Execute o playwright para instalar as dependências dele ```$ yarn playwright install-deps || npx playwright install-deps ```\
-4 - Inicie o servidor com ```$ yarn dev || npm run dev ``` e o acesse com esse exemplo ``` localhost:3333/?cep=78556-144 ```\
+4 - Inicie o servidor com ```$ yarn dev || npm run dev ``` e o acesse com esse exemplo ``` localhost:3333/?cep=78556-144 ```
 
 Desafio criado por [filiafobico](https://github.com/filiafobico/devchallenge-webscraping-correios) :)
